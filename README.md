@@ -3,4 +3,3 @@
 ### Right now i am pursuing my Btech degree in Electrical and Electronics engineering
 1. EXP 1
 2. EXP 2
-3 
